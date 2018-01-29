@@ -1,2 +1,2 @@
 # FSHt
-Python scripts for FHSt file collection.
+Python scripts for FSHt archive.
